@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Sjaluppen Mat Rating </title>
 <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/3075/3075929.png"/>
 <link rel="stylesheet" href="sjaluppen.css">
 </head>
